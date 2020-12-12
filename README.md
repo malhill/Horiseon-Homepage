@@ -5,7 +5,7 @@ A refactor of the Horiseon
 This project is to refactor the HTML and CSS to make it more readable. 
 
 ## Link to live application!
-https://malhill.github.io/Horiseon-Homepage/
+[Horiseon Homepage!](https://malhill.github.io/Horiseon-Homepage/)
 
 # HTML modifications:
 Organizing and spacing; 
