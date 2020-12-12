@@ -1,11 +1,12 @@
 # Horiseon-Homepage
 A refactor of the Horiseon 
 
-Readme.md 
+# Objective: This project is to refactor the HTML to make it more readable. 
 
-This is for the Horiseon Refactory
+## Link to live application!
+https://malhill.github.io/Horiseon-Homepage/
 
-HTML modifications:
+# HTML modifications:
 Organizing and spacing; 
 -Spaced out the header, and body (divs)
 replaced
@@ -16,7 +17,7 @@ replaced
 -added alt tag to img
 -copied url of "digital marketing meeting" to html and added alt
 
-CSS modifications
+# CSS modifications
 -added quotations in css for "calibri" and "sans-serif"
 -reorganized all css syntax to match the order of the html
 -grouped all syntax accordingly
