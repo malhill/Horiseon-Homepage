@@ -20,7 +20,7 @@ replaced
 * added alt tag to img
 * copied url of "digital marketing meeting" to html and added alt
 
-# CSS modifications
+# CSS modifications:
 * added quotations in css for "calibri" and "sans-serif"
 * reorganized all css syntax to match the order of the html
 * grouped all syntax accordingly
