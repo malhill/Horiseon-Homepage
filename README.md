@@ -1,7 +1,7 @@
-# Horiseon-Homepage
+# <center> Horiseon-Homepage
 A refactor of the Horiseon 
 
-# Objective: 
+## Objective: 
 This project is to refactor the HTML and CSS to make it more readable. 
 
 ## Link to live application!
@@ -9,7 +9,7 @@ This project is to refactor the HTML and CSS to make it more readable.
 
 ![application image](./assets/homeworkscreenshot.PNG "Horiseon first look!")
 
-# HTML modifications:
+## HTML modifications:
 Organizing and spacing; 
 * Spaced out the header, and body (divs)
 replaced
@@ -20,7 +20,7 @@ replaced
 * added alt tag to img
 * copied url of "digital marketing meeting" to html and added alt
 
-# CSS modifications:
+## CSS modifications:
 * added quotations in css for "calibri" and "sans-serif"
 * reorganized all css syntax to match the order of the html
 * grouped all syntax accordingly
