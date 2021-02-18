@@ -1,15 +1,13 @@
 # <center> Horiseon-Homepage
-A refactor of the Horiseon 
-
-## Objective: 
-This project is to refactor the HTML and CSS to make it more readable. 
-
-## Link to live application!
-[Horiseon Homepage!](https://malhill.github.io/Horiseon-Homepage/)
 
 ![application image](./assets/homeworkscreenshot.PNG "Horiseon first look!")
 
-## HTML modifications:
+This project is to refactor the HTML and CSS code to make it more presentable. 
+
+* [Github Repository](https://github.com/malhill/Horiseon-Homepage)
+* [Horiseon live app!](https://malhill.github.io/Horiseon-Homepage/)
+
+## HTML:
 Organizing and spacing; 
 * Spaced out the header, and body (divs)
 replaced
@@ -20,7 +18,7 @@ replaced
 * added alt tag to img
 * copied url of "digital marketing meeting" to html and added alt
 
-## CSS modifications:
+## CSS:
 * added quotations in css for "calibri" and "sans-serif"
 * reorganized all css syntax to match the order of the html
 * grouped all syntax accordingly
