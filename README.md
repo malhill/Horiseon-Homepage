@@ -7,7 +7,7 @@ This project is to refactor the HTML and CSS to make it more readable.
 ## Link to live application!
 [Horiseon Homepage!](https://malhill.github.io/Horiseon-Homepage/)
 
-![application image](homeworkscreenshot.PNG "Horiseon first look!")
+![application image](./assets/homeworkscreenshot.PNG "Horiseon first look!")
 
 # HTML modifications:
 Organizing and spacing; 
